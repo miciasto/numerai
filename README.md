@@ -7,7 +7,7 @@ Correlation is high for most of the 1050 features, however there are about 20-30
 
 Plot of sorted feature correlations:
 
-![correlation](v3_to_v4_correlation_zoom.png)
+![correlation](v3_to_v4_correlation.png)
 
 For reference, the correlations of the mapped features are included in the mapping csv file.
  
